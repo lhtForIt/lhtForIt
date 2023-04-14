@@ -1,4 +1,10 @@
-### Hi there 👋
+A CS rookie，is trying to learn more.
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lhtForIt&show_icons=true&theme=cobalt&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lhtForIt&theme=dark&layout=compact)
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhtForIt&repo=netty&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **lhtForIt/lhtForIt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
